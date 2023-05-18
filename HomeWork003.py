@@ -7,6 +7,9 @@ for i in range(1, n+1):
 x = int(input('Введите второе число: '))
 print(lst.count(x))
 
+
+
+
 # Задача 18:
 n = int(input('Введите первое число: '))
 lst = []
@@ -19,6 +22,10 @@ for k in lst:
         print(k)
     else:
         continue
+
+
+
+
 
 # *Задача 20:
 my_dict = {
