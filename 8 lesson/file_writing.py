@@ -19,5 +19,12 @@ def main():
 
         elif step == 'r':
             print(reading_csv(path))
+        elif step == 'c':
+            change_contact()
+        elif step == 'd':
+            delete_contact()
+
+
+
 
 main()
